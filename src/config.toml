@@ -1,3 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "fr-fr"
+title = "Cours de chant à Paris"
+theme = "chant"
+staticDir = "static"
