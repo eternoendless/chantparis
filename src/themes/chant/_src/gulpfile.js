@@ -7,6 +7,10 @@ var uglify = require('gulp-uglify');
 var pkg = require('./package.json');
 var browserSync = require('browser-sync').create();
 
+var cssOutput = '../static/css';
+var vendorBase = '../static/vendor';
+var jsOutput = '../static/js';
+
 // Set the banner content
 var banner = ['/*!\n',
   ' * Start Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
@@ -25,7 +29,7 @@ gulp.task('vendor', function() {
       '!./node_modules/bootstrap/dist/css/bootstrap-grid*',
       '!./node_modules/bootstrap/dist/css/bootstrap-reboot*'
     ])
-    .pipe(gulp.dest('./vendor/bootstrap'))
+    .pipe(gulp.dest(vendorBase+'/bootstrap'))
 
   // Font Awesome
   gulp.src([
@@ -35,32 +39,32 @@ gulp.task('vendor', function() {
       '!./node_modules/font-awesome/.*',
       '!./node_modules/font-awesome/*.{txt,json,md}'
     ])
-    .pipe(gulp.dest('./vendor/font-awesome'))
+    .pipe(gulp.dest(vendorBase+'/font-awesome'))
 
   // jQuery
   gulp.src([
       './node_modules/jquery/dist/*',
       '!./node_modules/jquery/dist/core.js'
     ])
-    .pipe(gulp.dest('./vendor/jquery'))
+    .pipe(gulp.dest(vendorBase+'/jquery'))
 
   // jQuery Easing
   gulp.src([
       './node_modules/jquery.easing/*.js'
     ])
-    .pipe(gulp.dest('./vendor/jquery-easing'))
+    .pipe(gulp.dest(vendorBase+'/jquery-easing'))
 
   // Magnific Popup
   gulp.src([
       './node_modules/magnific-popup/dist/*'
     ])
-    .pipe(gulp.dest('./vendor/magnific-popup'))
+    .pipe(gulp.dest(vendorBase+'/magnific-popup'))
 
   // Scrollreveal
   gulp.src([
       './node_modules/scrollreveal/dist/*.js'
     ])
-    .pipe(gulp.dest('./vendor/scrollreveal'))
+    .pipe(gulp.dest(vendorBase+'/scrollreveal'))
 
 });
 
@@ -70,20 +74,20 @@ gulp.task('css:compile', function() {
     .pipe(sass.sync({
       outputStyle: 'expanded'
     }).on('error', sass.logError))
-    .pipe(gulp.dest('./css'))
+    .pipe(gulp.dest(cssOutput))
 });
 
 // Minify CSS
 gulp.task('css:minify', ['css:compile'], function() {
   return gulp.src([
-      './css/*.css',
-      '!./css/*.min.css'
+      cssOutput+'/*.css',
+      '!'+cssOutput+'/*.min.css'
     ])
     .pipe(cleanCSS())
     .pipe(rename({
       suffix: '.min'
     }))
-    .pipe(gulp.dest('./css'))
+    .pipe(gulp.dest(cssOutput))
     .pipe(browserSync.stream());
 });
 
@@ -100,7 +104,7 @@ gulp.task('js:minify', function() {
     .pipe(rename({
       suffix: '.min'
     }))
-    .pipe(gulp.dest('./js'))
+    .pipe(gulp.dest(jsOutput+''))
     .pipe(browserSync.stream());
 });
 
@@ -122,6 +126,6 @@ gulp.task('browserSync', function() {
 // Dev task
 gulp.task('dev', ['css', 'js', 'browserSync'], function() {
   gulp.watch('./scss/*.scss', ['css']);
-  gulp.watch('./js/*.js', ['js']);
+  gulp.watch(jsOutput+'/*.js', ['js']);
   gulp.watch('./*.html', browserSync.reload);
 });
