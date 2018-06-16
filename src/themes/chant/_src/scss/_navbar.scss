@@ -1,19 +1,19 @@
 // Styling for the navbar
+$logo-floating: url('../img/logo-white.png');
+$logo-solid: url('../img/logo-orange.png');
+
 #mainNav {
   border-bottom: 1px solid fade-out($gray-900, .9);
   background-color: $white;
   @include sans-serif-font;
   @include transition-all;
+
   .navbar-brand {
-    font-weight: 700;
-    text-transform: uppercase;
-    color: $primary;
-    @include sans-serif-font;
-    &:focus,
-    &:hover {
-      color: darken($primary, .1);
-    }
+    width: 230px;
+    height: 34px;
+    background: $logo-solid no-repeat top left/230px 34px;
   }
+
   .navbar-nav {
     > li.nav-item {
        > a.nav-link,
@@ -39,11 +39,7 @@
     border-color: transparent;
     background-color: transparent;
     .navbar-brand {
-      color: fade-out($white, .3);
-      &:focus,
-      &:hover {
-        color: $white;
-      }
+      background-image: $logo-floating;
     }
     .navbar-nav > li.nav-item > a.nav-link {
       padding: 0.5rem 1rem;
@@ -59,11 +55,7 @@
       border-bottom: 1px solid fade-out($gray-900, .9);
       background-color: $white;
       .navbar-brand {
-        color: $primary;
-        &:focus,
-        &:hover {
-          color: darken($primary, .1);
-        }
+        background-image: $logo-solid;
       }
       .navbar-nav > li.nav-item > a.nav-link,
       .navbar-nav > li.nav-item > a.nav-link:focus {

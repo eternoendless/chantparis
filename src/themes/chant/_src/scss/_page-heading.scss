@@ -1,0 +1,22 @@
+header.page-heading {
+  height: 400px;
+  position: relative;
+  background-color: #000;
+
+  > .container {
+    z-index: 2;
+  }
+
+  .headerImage {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: center center;
+    @include background-cover;
+    width: 100%;
+    height: 100%;
+    opacity : 0.50;
+  }
+}

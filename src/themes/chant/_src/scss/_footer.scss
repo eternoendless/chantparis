@@ -1,0 +1,30 @@
+$bg-color: #35393E;
+$text-cloor: #d2d1d1;
+footer {
+  background: $bg-color;
+  color: $text-cloor;
+  padding: {
+    top: 3rem;
+    bottom: 3rem;
+  }
+
+  a {
+    color: $text-cloor;
+
+    &:hover {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
+  .title {
+    @include sans-serif-font();
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  .fa-inverse {
+    color: $bg-color;
+  }
+
+}

@@ -77,3 +77,7 @@ img::-moz-selection {
   color: $white;
   background: transparent;
 }
+
+img.circled {
+  border-radius: 9999px;
+}

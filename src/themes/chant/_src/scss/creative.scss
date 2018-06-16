@@ -3,6 +3,17 @@
 @import "global.scss";
 @import "navbar.scss";
 @import "masthead.scss";
+@import "page-heading.scss";
 @import "services.scss";
 @import "portfolio.scss";
+@import "page.scss";
+@import "home.scss";
+@import "footer.scss";
 @import "bootstrap-overrides.scss";
+
+.cta-footer {
+  margin-top: 4rem;
+  text-align: center;
+  .btn {
+  }
+}

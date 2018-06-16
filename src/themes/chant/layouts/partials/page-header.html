@@ -1,0 +1,15 @@
+{{ if .Page.Params.headerImg }}
+<header class="page-heading text-white d-flex">
+	<div class="container my-auto">
+		<div class="row">
+			<div class="col">
+				<h1 class="text-uppercase font-weight-bold text-center">
+					{{ .Page.Params.title }}
+				</h1>
+				<hr>
+			</div>
+		</div>
+	</div>
+	<div class="headerImage" style="background-image: url('{{ .Page.Params.headerImg }}')"></div>
+</header>
+{{ end }}

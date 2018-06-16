@@ -1,0 +1,20 @@
+# Clean and don't fail
+install:
+  - rm -rf public || exit 0
+
+# Build the website
+script:
+  - cd src
+  - ../bin/hugo-0.41/hugo
+  # Create a CNAME file which mapping to our custom domain
+  - echo 'www.courschantparis.fr' > public/CNAME
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: src/public
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  verbose: true
+  on:
+    branch: master
