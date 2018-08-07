@@ -28,19 +28,19 @@ Ce sera un plaisir de vous accueillir dans mon atelier à Paris 19ème, ou vous 
 <tbody>
 <tr>
 <th>Cours-découverte</th>
-<td>45 € (premier cours)</td>
+<td>40 € (premier cours)</td>
 </tr>
 <tr>
 <th>Cours ponctuel</th>
-<td>65€</td>
+<td>60€</td>
 </tr>
 <tr>
 <th>Forfait de 5 cours</th>
-<td>275 € / forfait valable 2 mois à partir du premier cours</td>
+<td>250 € / forfait valable 2 mois à partir du premier cours</td>
 </tr>
 <tr>
 <th>Forfait de 10 cours</th>
-<td>500 € / forfait valable 4 mois à partir du premier cours</td>
+<td>480 € / forfait valable 4 mois à partir du premier cours</td>
 </tr>
 </tbody>
 </table>
