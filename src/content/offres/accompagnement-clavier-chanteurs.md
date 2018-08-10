@@ -1,6 +1,8 @@
 ---
 title: Accompagnement clavier pour chanteurs
 headerImg: /img/accompagnement-clavier.jpg
+aliases:
+  - /accompagnement_clavier_chanteurs/
 ---
 
 En tant que chanteur vous ressentez parfois un sentiment de manque d’indépendance ?

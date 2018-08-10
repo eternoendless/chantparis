@@ -1,6 +1,8 @@
 ---
 title: Coaching vocal
 headerImg: /img/coaching-vocal.jpg
+aliases:
+  - /coaching_vocal/
 ---
 
 ## Pour qui ?

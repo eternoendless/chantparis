@@ -10,7 +10,7 @@ Découvrez nos différentes offres :
 
 Que vous soyez débutant, confirmé ou professionnel, les séances de coaching vocal s’adressent à tous ceux qui veulent apprendre à chanter ou améliorer la technique vocale, les mécanismes phonatoires, la théâtralité, l’interprétation, la corporalité, l’évolution dans l’espace scénique, etc.
  
-[Je découvre le coaching vocal ›]({{< ref "/offres/coaching_vocal.md" >}})
+[Je découvre le coaching vocal ›]({{< ref "/offres/coaching-vocal.md" >}})
 
 ## Ateliers chant en entreprise
 
@@ -20,10 +20,10 @@ de l’activité de team building idéale ?
 Que ce soit à l’heure du déjeuner ou en fin de la journée, les ateliers de chant en entreprise
 sont l’occasion idéale pour renforcer la cohésion et le bien-être au travail. 
 
-[Je découvre les atéliers ›]({{< ref "/offres/atelier_chant_entreprise.md" >}})
+[Je découvre les atéliers ›]({{< ref "/offres/atelier-chant-entreprise.md" >}})
 
 ## Accompagnement clavier pour chanteurs 
 
 En tant que chanteur vous ressentez parfois un sentiment de manque d’indépendance ? Ce cours est conçu pour vous donner les outils nécessaires pour vous sentir plus autonomes et légitimes dans votre pratique.
 
-[Je découvre l'accompagnement clavier pour chanteurs ›]({{< ref "/offres/accompagnement_clavier_chanteurs.md" >}})
+[Je découvre l'accompagnement clavier pour chanteurs ›]({{< ref "/offres/accompagnement-clavier-chanteurs.md" >}})

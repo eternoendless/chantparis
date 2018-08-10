@@ -1,6 +1,8 @@
 ---
 title: Ateliers de chant en entreprise
 headerImg: /img/atelier-entreprise.jpg
+aliases:
+  - /atelier_chant_entreprise/
 ---
 
 ## Ateliers de chant en entreprise
