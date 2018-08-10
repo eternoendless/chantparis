@@ -1,4 +1,4 @@
-baseURL = "http://www.chantparis.fr/"
+baseURL = "http://www.courschantparis.fr/"
 languageCode = "fr-fr"
 title = "Cours de chant à Paris"
 theme = "chant"
