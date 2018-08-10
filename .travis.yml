@@ -4,8 +4,9 @@ install:
 
 # Build the website
 script:
+  - ./bin/installHugo.sh
   - cd src
-  - ../bin/hugo-0.41/hugo
+  - ../hugo
   # Create a CNAME file which mapping to our custom domain
   - echo 'www.courschantparis.fr' > public/CNAME
 
