@@ -9,10 +9,6 @@ Le rôle de votre coach vocal est de vous donner les outils pour aborder le styl
 
 Vous aurez espace en ligne personnalisé où le coach vous demandera d’inscrire une liste des morceaux qui vous plaisent, que vous aborderez ensuite au cours de l’année, selon vos différents objectifs. 
 
-### Spécialisation en musiques latino-américaines 
-
-Chanteuse professionnelle spécialisée dans la musique latino-américaine, votre coach pourra, si vous le souhaitez, vous faire découvrir des nouveaux styles et univers musicaux propres de son pays l’Argentine, ou d’autres pays sudaméricains. 
-
 ## Pour qui ?
 
 ### Les enfants
