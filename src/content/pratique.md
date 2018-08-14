@@ -1,6 +1,8 @@
 ---
 title: Information pratique
 headerImg: /img/pratique.jpg
+aliases:
+  - /en_pratique/
 ---
 
 ## Inscription 
