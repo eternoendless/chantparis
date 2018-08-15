@@ -12,6 +12,14 @@ Que vous soyez débutant, confirmé ou professionnel, les séances de coaching v
  
 [Je découvre le coaching vocal ›]({{< ref "/offres/coaching-vocal.md" >}})
 
+## Spécialisation en musiques argentines et brésiliennes
+
+Nourrie par de nombreuses migrations et influences, l’Amérique du Sud est le scénario d’une grande richesse musicale, poussée par les apports des nouvelles générations. 
+
+Découvrez des nouveaux univers musicaux avec votre coach spécialisé dans le répertoire argentin et brésilien (tango, bossa nova, samba, bolero, vals criollo, musiques folkloriques...). 
+
+[Je découvre la spécialisation ›]({{< ref "/offres/specialisation-musiques-argentines-bresiliennes.md" >}})
+
 ## Ateliers chant en entreprise
 
 Vous êtes un comité d’entreprise ou un service de ressources humaines en recherche
