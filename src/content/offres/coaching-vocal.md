@@ -9,7 +9,7 @@ aliases:
 
 Que vous soyez débutant, confirmé ou professionnel, les séances de coaching vocal s’adressent à tous ceux qui veulent apprendre à chanter ou améliorer la technique vocale, les mécanismes phonatoires, la théâtralité, l’interprétation, la corporalité, l’évolution dans l’espace scénique, etc.
 
-Aucun pré-requis est demandé pour les séances de coaching. Il s’agit d’une pédagogie sur mesure, selon vos propres objectifs. 
+Aucun pré-requis n'est demandé pour les séances de coaching. Il s’agit d’une pédagogie sur mesure, selon vos propres objectifs. 
 
 ## Vos séances 
 
@@ -37,7 +37,7 @@ Ces étapes peuvent être complétées par :
 Grâce à une pédagogie sur mesure vous pourrez avancer plus rapidement en ciblant exactement ce dont vous avez besoin. Ceci vous permettra entre autres de :
 
 - Libérer votre voix : élargir la tessiture, débloquer les « verrous », gagner en résonance, en projection, en intensité.
-- Libérer votre interprétation : vous connecter avec le texte sous une perspective théâtrale, construire votre propre version des chansons.
-- Libérer vos recours esthétiques : connaître différents « effets » afin de « saupoudrer » vos interprétations avec conscience (vibrato, oral/nasal, saturation, utilisation de différents harmoniques...)
+- Libérer vos recours esthétiques : conscientiser les différents placements résonantiels, vibratoires, auditifs.
+- Libérer votre interprétation et votre prestation scénique : conscientisation théâtrale, travail sur les différents styles de phrasé
 
 {{< cta_contact >}}Je prends un rendez-vous{{< /cta_contact >}}
