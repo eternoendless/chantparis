@@ -5,21 +5,16 @@ headerImg: /img/concert.jpg
 
 ## Prochains concerts
 
-### Concert et bal avec Cuarteto Levin
-4 septembre 2018 – 20h
+### Sofía Levín & Alejandro Schwarz 
+07 décembre 2019 – 18h
 
-Lieu: Péniche Anako
-
----
-
-### Concert Cuarteto Levín
-12 octobre 2018 – 20h
-
-Lieu: Patronage Laïque Jules Vallès
+Lieu : 30 rue Paul Vaillant Couturier, Alfortville
+RER D Sud Direction Melun/Malesherbes, à 1 station de la Gare de Lyon : arrêt Maisons-Alfort Alfortville
 
 ---
 
-### Concert jeunes interprètes Cuarteto Levín
-26 octobre 2018 – 20h
+### Concert des élèves
+11 février 2019 – 20h30
 
-Lieu: Privé
+Lieu : Péniche Anako
+
