@@ -9,10 +9,6 @@ aliases:
 
 La première séance nous permet de faire connaissance afin d’établir le plan pédagogique qui correspond le mieux à vos objectifs et à votre disponibilité : un ou deux rendez-vous hebdomadaires ou tous les quinze jours, seul ou en petit groupe.
 
-## Tarifs
-
-Pour établir un devis, n'hésitez pas à nous contacter par [message]({{< ref "/contact.md" >}}) ou par téléphone au **06 58 72 88 26**. 
-
 ## Lieux des cours 
 
 Ce sera un plaisir de vous accueillir dans notre atelier à Paris 19ème, ou vous retrouver à distance par visioconférence.
@@ -42,6 +38,37 @@ Tout cours annulé moins de 48h avant la date prévue sera considéré comme dû
 
 ##### Reglement
 
-Il est possible de règler en espèces, paypal ou virement bancaire. 
+Il est possible de règler en espèces ou Paypal. 
 
 Pour les cours par Skype, le paiement devra être reçu la veille de la séance.
+
+## Tarifs
+
+<table class="table">
+<tbody>
+<tr>
+<th>Cours ponctuel individuel (hors forfait)</th>
+<td>55 €</td>
+</tr>
+<tr>
+<th>Forfait de 5 cours indivduel</th>
+<td>250 €</td>
+</tr>
+<tr>
+<th>Forfait de 10 cours individuel</th>
+<td>480 €</td>
+</tr>
+<tr>
+<th>Forfait de 5 cours en duo</th>
+<td>150 € / élève participant</td>
+</tr>
+<tr>
+<th>Forfait de 10 cours en duo</th>
+<td>290 € / élève participant</td>
+</tr>
+</tbody>
+</table>
+
+N'hésitez pas à me contacter par [message]({{< ref "/contact.md" >}}) ou par téléphone au **06 58 72 88 26** pour plus de renseignements ou pour établir un devis (cours en groupe, ateliers chant en entreprise).
+
+Réductions pour les étudiants, demandeurs d'emploi et retraités. 
