@@ -6,7 +6,7 @@ aliases:
 ---
 
 <div class="float-md-right mt-1 ml-3 mb-3 mr-1 text-center">
-    <img src="/img/sofia.jpg" width="300">
+    <img src="/img/photo-bio-cours-de-chant.jpg" width="300">
 </div>
 
 Je suis Sofía Levín, chanteuse professionnelle, professeur et coach vocal depuis plus de 12 ans.
