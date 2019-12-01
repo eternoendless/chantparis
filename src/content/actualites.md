@@ -16,5 +16,7 @@ RER D Sud Direction Melun/Malesherbes, à 1 station de la Gare de Lyon : arrêt 
 ### Concert des élèves
 11 février 2019 – 20h30
 
+[Evenement facebook](https://www.facebook.com/events/424523878229518/)
+
 Lieu : Péniche Anako
 
