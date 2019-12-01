@@ -15,8 +15,11 @@ $logo-solid: url('../img/logo-orange.png');
   }
 
   .navbar-nav {
+
     > li.nav-item {
-       > a.nav-link,
+      display: flex;
+      align-items: center;
+      > a.nav-link,
       > a.nav-link:focus {
         font-size: .9rem;
         font-weight: 700;
@@ -31,6 +34,18 @@ $logo-solid: url('../img/logo-orange.png');
           &:hover {
             background-color: transparent;
           }
+        }
+      }
+
+      // link facebook
+      &.fb-link > a.nav-link {
+        color: $white;
+        &:hover {
+          color: $primary;
+        }
+
+        .fa-inverse {
+          color: $gray-900;
         }
       }
     }
@@ -57,11 +72,23 @@ $logo-solid: url('../img/logo-orange.png');
       .navbar-brand {
         background-image: $logo-solid;
       }
-      .navbar-nav > li.nav-item > a.nav-link,
-      .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: $gray-900;
-        &:hover {
-          color: $primary;
+      .navbar-nav > li.nav-item {
+        & > a.nav-link,
+        & > a.nav-link:focus {
+          color: $gray-900;
+          &:hover {
+            color: $primary;
+          }
+        }
+
+        // link facebook
+        &.fb-link > a.nav-link {
+          &:hover {
+            color: $primary;
+          }
+          .fa-inverse {
+            color: $white;
+          }
         }
       }
     }

@@ -99,6 +99,11 @@ img.circled {
   background: url("../img/logo-orange.png") no-repeat top left/230px 34px;
 }
 
+#mainNav .navbar-nav > li.nav-item {
+  display: flex;
+  align-items: center;
+}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
   font-size: .9rem;
@@ -121,6 +126,18 @@ img.circled {
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
   background-color: transparent;
+}
+
+#mainNav .navbar-nav > li.nav-item.fb-link > a.nav-link {
+  color: #fff;
+}
+
+#mainNav .navbar-nav > li.nav-item.fb-link > a.nav-link:hover {
+  color: #F05F40;
+}
+
+#mainNav .navbar-nav > li.nav-item.fb-link > a.nav-link .fa-inverse {
+  color: #212529;
 }
 
 @media (min-width: 992px) {
@@ -156,6 +173,12 @@ img.circled {
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: #F05F40;
+  }
+  #mainNav.navbar-shrink .navbar-nav > li.nav-item.fb-link > a.nav-link:hover {
+    color: #F05F40;
+  }
+  #mainNav.navbar-shrink .navbar-nav > li.nav-item.fb-link > a.nav-link .fa-inverse {
+    color: #fff;
   }
 }
 
