@@ -1,6 +1,8 @@
 // Styling for the navbar
 $logo-floating: url('../img/logo-white.png');
 $logo-solid: url('../img/logo-orange.png');
+$logo-width: 444px / 2;
+$logo-height: 80px / 2;
 
 #mainNav {
   border-bottom: 1px solid fade-out($gray-900, .9);
@@ -9,9 +11,9 @@ $logo-solid: url('../img/logo-orange.png');
   @include transition-all;
 
   .navbar-brand {
-    width: 230px;
-    height: 34px;
-    background: $logo-solid no-repeat top left/230px 34px;
+    width: $logo-width;
+    height: $logo-height;
+    background: $logo-solid no-repeat top left/$logo-width $logo-height;
   }
 
   .navbar-nav {

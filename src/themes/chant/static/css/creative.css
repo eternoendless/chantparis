@@ -94,9 +94,9 @@ img.circled {
 }
 
 #mainNav .navbar-brand {
-  width: 230px;
-  height: 34px;
-  background: url("../img/logo-orange.png") no-repeat top left/230px 34px;
+  width: 222px;
+  height: 40px;
+  background: url("../img/logo-orange.png") no-repeat top left/222px 40px;
 }
 
 #mainNav .navbar-nav > li.nav-item {

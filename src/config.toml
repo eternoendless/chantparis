@@ -1,5 +1,5 @@
-baseURL = "http://www.courschantparis.fr/"
+baseURL = "https://cours.sofialevinmusic.com/"
 languageCode = "fr-fr"
-title = "Cours de chant à Paris"
+title = "Sofía Levín Cours"
 theme = "chant"
 staticDir = "static"
