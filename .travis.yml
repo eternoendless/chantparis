@@ -8,7 +8,7 @@ script:
   - cd src
   - ../hugo
   # Create a CNAME file which mapping to our custom domain
-  - echo 'www.courschantparis.fr' > public/CNAME
+  - echo 'cours.sofialevinmusic.com' > public/CNAME
 
 # Deploy to GitHub pages
 deploy:
