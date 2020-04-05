@@ -4,6 +4,7 @@ header.masthead {
   padding-bottom: calc(10rem - 56px);
   background-color: #000;
   position: relative;
+  min-height: 100vh;
 
   hr {
     margin-top: 30px;
@@ -22,7 +23,6 @@ header.masthead {
   }
   @media (min-width: 992px) {
     height: 100vh;
-    min-height: 650px;
     padding-top: 0;
     padding-bottom: 0;
     h1 {

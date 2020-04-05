@@ -190,6 +190,7 @@ header.masthead {
   padding-bottom: calc(10rem - 56px);
   background-color: #000;
   position: relative;
+  min-height: 100vh;
 }
 
 header.masthead hr {
@@ -214,7 +215,6 @@ header.masthead p {
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
-    min-height: 650px;
     padding-top: 0;
     padding-bottom: 0;
   }
