@@ -1,6 +1,9 @@
 ---
-title: Actualités
+title: News
 headerImg: /img/concert.jpg
+layout: single
+aliases:
+    - /actualites/
 ---
 
 ## Prochains concerts

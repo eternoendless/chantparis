@@ -1,8 +1,9 @@
 ---
-title: Votre coach
+title: Votre enseignante
 headerImg: /img/foto.png
 aliases:
   - /votre_coach/
+  - /votre-coach/
 ---
 
 <div class="float-md-right mt-1 ml-3 mb-3 mr-1 text-center">
