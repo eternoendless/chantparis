@@ -1,0 +1,10 @@
+baseURL: "https://cours.sofialevinmusic.com/"
+languageCode: "fr-fr"
+title: "Sofía Levín Cours"
+theme: "chant"
+staticDir: "static"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
