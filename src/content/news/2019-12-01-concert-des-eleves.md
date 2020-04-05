@@ -4,7 +4,7 @@ layout: news
 date: 2019-12-01
 ---
 
-Le concert des élèves aural lieu le 11 février 2020 à 20h30 à la Péniche Anako
+Le premier concert des élèves de l'année aura lieu le 11 février 2020 à 20h30 à la Péniche Anako
 
 Venez nombreux !
 
