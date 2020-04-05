@@ -13,4 +13,4 @@ Si vous avez envie d'améliorer votre technique vocale, votre respiration ou vot
 https://cours.sofialevinmusic.com
 
 
-![Cours en ligne](img/cours-en-ligne.png)
+![Cours en ligne](/news/img/cours-en-ligne.png)
