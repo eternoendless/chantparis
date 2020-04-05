@@ -1,0 +1,24 @@
+.news-list {
+  time.date {
+    display: block;
+    color: $gray-600;
+    margin-bottom: 2rem;
+    font-size: .9rem;
+  }
+}
+
+.news {
+  section.main {
+    padding-top: 8rem;
+  }
+
+  #mainNav {
+    @media (min-width: 992px) {
+      background-color: #000;
+
+      &.navbar-shrink {
+        background-color: #fff;
+      }
+    }
+  }
+}

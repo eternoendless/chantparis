@@ -1,9 +1,12 @@
 baseURL: "https://cours.sofialevinmusic.com/"
 languageCode: "fr-FR"
 title: "Sofía Levín Cours"
-description: "Découvrez le chanteur qui existe déjà en vous !"
 theme: "chant"
 staticDir: "static"
+
+params:
+  description: "Découvrez le chanteur qui existe déjà en vous !"
+  facebook: "https://www.facebook.com/sofialevincours"
 
 markup:
   goldmark:

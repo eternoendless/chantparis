@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	{{ if .Page.Description }}
+	<meta name="description" content="{{ .Page.Description }}">
+	{{ end }}
+
+	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+
+	{{ partial "styles.html" . }}
+
+</head>
+
+<body id="page-top" class="news">
+
+{{ partial "navigation.html" . }}
+
+{{ partial "page-header.html" . }}
+
+<section class="main">
+	<div class="container">
+		<div class="row">
+			<div class="col col-lg-10 mx-auto">
+
+				<h1>{{ .Title }}</h1>
+
+				{{ .Content }}
+
+			</div>
+		</div>
+	</div>
+</section>
+
+{{ partial "footer.html" . }}
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

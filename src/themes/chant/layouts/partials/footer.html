@@ -2,9 +2,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-10 mx-auto" itemscope itemtype="http://schema.org/LocalBusiness">
-				<p class="title" itemprop="name">Cours de chant Paris</p>
+				<p class="title" itemprop="name">{{ .Site.Title }}</p>
 				<p>
-					<a href="https://www.facebook.com/courschantparis">
+					<a href="{{ .Site.Params.Facebook }}">
 					<span class="fa-stack fa-lg">
 					  <i class="fa fa-circle fa-stack-2x"></i>
 					  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
