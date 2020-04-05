@@ -22,3 +22,12 @@
     }
   }
 }
+
+.news-list, .news {
+  img {
+    max-height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

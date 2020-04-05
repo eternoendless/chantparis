@@ -445,6 +445,13 @@ footer .fa-inverse {
   }
 }
 
+.news-list img, .news img {
+  max-height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .cta-footer {
   margin-top: 4rem;
   text-align: center;
