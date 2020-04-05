@@ -1,37 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.LanguageCode }}">
 
 <head>
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Découvrez le chanteur qui existe déjà en vous !">
+	{{ if .Page.Description }}
+	<meta name="description" content="{{ .Page.Description }}">
+	{{ end }}
 
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
-	<!-- Bootstrap core CSS -->
-	<link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-	<!-- Custom fonts for this template -->
-	<link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-
-	<!-- Plugin CSS -->
-	<link href="/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
-
-	<!-- Custom styles for this template -->
-	<link href="/css/creative.min.css" rel="stylesheet">
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123956208-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-123956208-1');
-	</script>
+	{{ partial "styles.html" . }}
 
 </head>
 
@@ -53,53 +33,9 @@
 	</div>
 </section>
 
-<footer>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-10 mx-auto" itemscope itemtype="http://schema.org/LocalBusiness">
-				<p class="title" itemprop="name">Cours de chant Paris</p>
-				<p>
-					<a href="https://www.facebook.com/courschantparis">
-					<span class="fa-stack fa-lg">
-					  <i class="fa fa-circle fa-stack-2x"></i>
-					  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-					</span>
-					Suivez-nous sur Facebook
-					</a>
-				</p>
-				<p>
-					<a href="/contact/">
-						<span class="fa-stack fa-lg">
-						  <i class="fa fa-circle fa-stack-2x"></i>
-						  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-						</span>
-						Contactez-nous
-					</a>
-				</p>
-				<p>
-					<span class="fa-stack fa-lg">
-					  <i class="fa fa-circle fa-stack-2x"></i>
-					  <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
-					</span>
-					<span itemprop="telephone" content="+336582738826">+33 6 58 72 88 26</span>
-				</p>
-			</div>
-		</div>
-	</div>
-</footer>
+{{ partial "footer.html" . }}
 
-<!-- Bootstrap core JavaScript -->
-<script src="/vendor/jquery/jquery.min.js"></script>
-<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-<!-- Plugin JavaScript -->
-<script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
-<script src="/vendor/scrollreveal/scrollreveal.min.js"></script>
-<script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-
-<!-- Custom scripts for this template -->
-<script src="/js/creative.min.js"></script>
+{{ partial "scripts.html" . }}
 
 </body>
-
 </html>
