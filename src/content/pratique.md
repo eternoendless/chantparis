@@ -11,7 +11,7 @@ La première séance nous permet de faire connaissance afin d’établir le plan
 
 ## Lieux des cours 
 
-Ce sera un plaisir de vous accueillir dans notre atelier à Paris 19ème, ou vous retrouver à distance par visioconférence.
+Ce sera un plaisir de vous accueillir dans mon atelier à Paris 19ème, ou vous retrouver à distance par visioconférence.
 
 ##### Accès
 
@@ -32,7 +32,7 @@ Les séances sont d'une durée de une heure.
 
 ##### Annulation/report
 
-Merci de nous prévenir dès que possible pour toute demande de report de séance. 
+Merci de me prévenir dès que possible pour toute demande de report de séance. 
 
 Tout cours annulé moins de 48h avant la date prévue sera considéré comme dû.
 
