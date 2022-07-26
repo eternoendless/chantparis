@@ -21,5 +21,3 @@ Chanteuse scénique, je me produis régulièrement en Europe et en Amérique Lat
 Vous pouvez suivre toutes mes actualités sur [ma page Facebook](https://www.facebook.com/SoLevinTango/) et [mon site officiel](http://sofialevinmusic.com/).
 
 À très bientôt !
-
-<img src="/img/signature.png" alt="Sofia Levin" width="200">
