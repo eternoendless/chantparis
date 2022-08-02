@@ -10,7 +10,7 @@ aliases:
  
 </div>
 
-Je suis Sofía Levín, chanteuse professionnelle, professeur et coach vocal depuis plus de 12 ans.
+Je suis Sofía Levín, chanteuse, professeur/coach vocal et pédagogue depuis plus de 12 ans.
 
 À travers ma double expérience de la scène et de l’enseignement, je développe une approche globale du chant qui associe diverses techniques classiques et modernes, des connaissances précises en technique vocale, les apports de la pédagogie musicale, ainsi que de l’expression corporelle. J’accompagne avec joie des étudiants de tous les niveaux, tous les âges et tous les styles et ayant des objectifs très variés : pratique amateur ou loisir, pre-professionnelle ou professionnelle. Enseignante dans des contextes divers (coachings personnalisés, master class, école de musique ou conservatoire), je cherche toujours à personnaliser mon approche pour vous aider à atteindre vos propres objects.
 
@@ -18,6 +18,3 @@ Diplômée Master 2 en Pédagogie, je me suis formée en chant, piano, pédagogi
 
 Chanteuse scénique, je me produis régulièrement en Europe et en Amérique Latine, au sein de projets musicaux influencés principalement par les musiques latino-américaines, le jazz et la chanson française, dont “Cuarteto Levín”, “De vuelta trío” et “Chanson porteña”.
 
-Vous pouvez suivre toutes mes actualités sur [ma page Facebook](https://www.facebook.com/SoLevinTango/) et [mon site officiel](http://sofialevinmusic.com/).
-
-À très bientôt !
