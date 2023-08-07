@@ -11,14 +11,12 @@ La première séance nous permet de faire connaissance afin d’établir le plan
 
 ## Lieux des cours 
 
-Ce sera un plaisir de vous accueillir dans mon atelier à Paris 19ème, ou vous retrouver à distance par visioconférence.
+Ce sera un plaisir de vous accueillir pour vous cours à Saint Maurice, ou vous retrouver à distance par visio.
 
 ##### Accès
 
-- **Tramway T3** : arrêt « Canal Saint Denis » (1 min à pied)
-- **RER E** : arrêt « Rosa parks » (5 min à pied)
-- **Métro 7** : arrêt « Porte de la Villette » (8 min à pied)
-- **Bus 60** : arrêt « Crimée - Rosa parks » (8 min à pied)
+- **RER A** : arrêt « Joinville-le-Pont » (6 min à pied)
+- **Bus 111 et 281** : arrêt « Ecoles de Gravelle » (1 min à pied)
 
 <p class="text-center">
 <a href="/img/emplacement.jpg" target="_blank"><img src="/img/emplacement.jpg" style="max-height:350px" alt="Atelier Paris 19ème" /></a>
