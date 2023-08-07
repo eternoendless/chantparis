@@ -18,9 +18,6 @@ Ce sera un plaisir de vous accueillir pour vous cours à Saint Maurice, ou vous 
 - **RER A** : arrêt « Joinville-le-Pont » (6 min à pied)
 - **Bus 111 et 281** : arrêt « Ecoles de Gravelle » (1 min à pied)
 
-<p class="text-center">
-<a href="/img/emplacement.jpg" target="_blank"><img src="/img/emplacement.jpg" style="max-height:350px" alt="Atelier Paris 19ème" /></a>
-</p>
 
 ## Points importants
 
