@@ -5,8 +5,6 @@ aliases:
   - /atelier_chant_entreprise/
 ---
 
-## Ateliers de chant en entreprise
-
 Vous êtes un comité d’entreprise ou un service de ressources humaines en recherche
 de l’activité de team building idéale ? 
 

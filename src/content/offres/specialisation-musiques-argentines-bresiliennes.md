@@ -3,10 +3,16 @@ title: Spécialisation en musiques argentines et brésiliennes
 headerImg: /img/musica-popular.jpg
 ---
 
+Nourrie par de nombreuses migrations et influences, l’Amérique du Sud est le scénario d’une grande richesse musicale, poussée par les apports des nouvelles générations.
+
+Découvrez des nouveaux univers musicaux avec votre coach spécialisé dans le répertoire argentin et brésilien (tango, bossa nova, samba, bolero, vals criollo, musiques folkloriques…).
+
 ## Pour qui ? 
+
 Cette spécialisation est proposée à toutes celles et tous ceux qui s'intéressent à la culture et au répertoire musical de l'Argentine et du Brésil. Aucun pré-requis n'est nécessaire. 
 
 ## Vos séances
+
 Au delà du travail technique et selon vos objectifs, cette spécialisation vous permettra d'acquérir les compétences musicales et linguistiques du répertoire de ces deux pays voisins, sous une perspective intégrale.
  
 Vous aurez ainsi les outils pour interpréter les morceaux de votre choix, en prenant appui sur les caractéristiques rythmiques et poétiques du style choisi, ainsi que sur la prononciation de l'espagnol ou du portugais.

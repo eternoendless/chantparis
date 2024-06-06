@@ -11,12 +11,12 @@ La première séance nous permet de faire connaissance afin d’établir le plan
 
 ## Lieux des cours 
 
-Ce sera un plaisir de vous accueillir pour vous cours à Saint Maurice, ou vous retrouver à distance par visio.
+Ce sera un plaisir de vous accueillir pour vous cours à Saint Maurice, ou vous retrouver à distance par visio (Skype ou FaceTime).
 
 ##### Accès
 
-- **RER A** : arrêt « Joinville-le-Pont » (6 min à pied)
-- **Bus 111 et 281** : arrêt « Ecoles de Gravelle » (1 min à pied)
+- **RER A :** arrêt « Joinville-le-Pont » (6 min à pied)
+- **Bus 111 et 281 :** arrêt « Ecoles de Gravelle » (1 min à pied)
 
 
 ## Points importants
@@ -35,7 +35,7 @@ Tout cours annulé moins de 48h avant la date prévue sera considéré comme dû
 
 Il est possible de règler en espèces ou Paypal. 
 
-Pour les cours par Skype, le paiement devra être reçu la veille de la séance.
+Pour les cours en visioconférence, le paiement devra être reçu la veille de la séance.
 
 ## Des questions ?
 
