@@ -27,7 +27,7 @@ Les séances sont d'une durée de une heure.
 
 ##### Annulation/report
 
-Merci de me prévenir dès que possible pour toute demande de report de séance. 
+Merci de nous prévenir dès que possible pour toute demande de report de séance. 
 
 Tout cours annulé moins de 48h avant la date prévue sera considéré comme dû.
 
@@ -39,5 +39,5 @@ Pour les cours en visioconférence, le paiement devra être reçu la veille de l
 
 ## Des questions ?
 
-N'hésitez pas à me contacter par [message]({{< ref "/contact.md" >}}) ou par téléphone au **06 58 72 88 26** pour plus de renseignements ou pour établir un devis (cours en groupe, ateliers chant en entreprise).
+N'hésitez pas à [nous contacter]({{< ref "/contact.md" >}}) pour plus de renseignements ou pour établir un devis ([voir nos offres]({{< ref "/offres.md" >}})).
 

@@ -35,3 +35,9 @@ sont l’occasion idéale pour renforcer la cohésion et le bien-être au travai
 En tant que chanteur vous ressentez parfois un sentiment de manque d’indépendance ? Ce cours est conçu pour vous donner les outils nécessaires pour vous sentir plus autonomes et légitimes dans votre pratique.
 
 [Je découvre l'accompagnement clavier pour chanteurs ›]({{< ref "/offres/accompagnement-clavier-chanteurs.md" >}})
+
+## Ateliers chant seniors
+
+Moment de partage et de cohésion unique, les ateliers de chant senior sont destinés et conçus pour proposer une pratique musicale accessible, en petits groupes de participants. Ces ateliers favorisent la socialisation, l’expression personnelle et le bien-être émotionnel. Ils offrent un moment de plaisir et de détente, tout en améliorant la posture et la respiration.
+
+[Je découvre les ateliers chant seniors ›]({{< ref "/offres/ateliers-chant-seniors.md" >}})
