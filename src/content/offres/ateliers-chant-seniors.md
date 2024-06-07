@@ -1,5 +1,5 @@
 ---
-title: Ateliers chant Senior
+title: Ateliers chant seniors
 headerImg: /img/seniors.jpg
 ---
 
