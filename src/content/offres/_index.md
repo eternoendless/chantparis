@@ -44,3 +44,10 @@ En tant que chanteur vous ressentez parfois un sentiment de manque d’indépend
 [Je découvre l'accompagnement clavier pour chanteurs ›]({{< ref "/offres/accompagnement-clavier-chanteurs.md" >}})
 
 
+## Ateliers chant enfants - éveil musical
+
+[Je découvre l'atelier chant enfants - éveil musical ›]({{< ref "/offres/ateliers-chant-enfants.md" >}})
+
+## Ateliers chant ados
+
+[Je découvre l'atelier chant ados ›]({{< ref "/offres/ateliers-chant-ados.md" >}})
